@@ -1,4 +1,4 @@
-#App UX
+# App UX
 ### :vibration_mode:
 ##### Taught by: Katya Rozanova
 ##### kr2176@nyu.edu 
