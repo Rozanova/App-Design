@@ -107,7 +107,7 @@ up your work. If you need information or assistance in setting up a backup syste
 speak to Professor Hamilton.
 
 ### Academic Integrity
-Academic dishonesty is prohibited in The City University of New York. Penalties for academic
+Academic dishonesty is prohibited in Queens College of New York. Penalties for academic
 dishonesty include academic sanctions, such as failing or otherwise reduced grades, and/or
 disciplinary sanctions, including suspension or expulsion. Cheating is the unauthorized use or
 attempted use of material, information, notes, study aids, devices or communication during
