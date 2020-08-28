@@ -127,7 +127,7 @@ acad_integrity.html
 * Setting up blogs and are.na accounts, sharing emails and blogs with the instructor. 
 
 ##### HW: 
-* Quick 2-3 paragraphs about potential app idea and interests based on the three options for class projects:
+* Quick 2-3 paragraphs about potential app idea and interests based on the four options for class projects:
 1. App as civic engagement tool.
 2. Speculative app a design/art project to address potential future societal needs. 
 3. Critical app design as design/art project that critiques existing social and cultural systems. 
