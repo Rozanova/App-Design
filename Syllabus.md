@@ -103,8 +103,11 @@ Late assignments will be given a one-quarter letter grade reduction for each cla
 late. Missing assignments will be given a grade of F.
 
 Consideration will not be given for failure to produce work due to loss of data. Please back
-up your work. If you need information or assistance in setting up a backup system, please
-speak to Professor Hamilton.
+up your work.
+
+This is a hands-on course, and regular attendance is necessary for participation. You will be graded on in-class participation. If you know you are going to be absent, contact the professor by email in advance. Students who miss numerous classes will find it difficult to pass the course. Visual assignments and projects will be graded based on: one for technical merit, concept and your demonstrated ability to understand the material. 
+
+For the most up-to-date information (including what is due next class) visit the class’s Slack channel (to which you have been invited).
 
 ### Academic Integrity
 Academic dishonesty is prohibited in Queens College of New York. Penalties for academic
@@ -120,7 +123,7 @@ acad_integrity.html
 
 #### Week 1 
 ##### In-class: 
-* Course introduction. (What is UX?) 
+* Course introduction. 
 * Syllabus review.
 * Design theory review.
 * Discussion of individual goals and design interests.
