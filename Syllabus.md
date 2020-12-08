@@ -222,8 +222,10 @@ Blog it and post link to [Weekly Assignments document]
 
 #### Week 6 
 ##### In-class: 
-Lecture: Prototyping and usability techniques. (Sketch, Figma, Adobe XD)
+* Lecture: Prototyping and usability techniques. (Sketch, Figma, Adobe XD)
+* Lecture: Accessibility
 * In-class activity: Use Sketch, Figma, or Adobe XD to prototype the next iteration of the wireframes for testing.
+
 
 ##### HW: 
 * Finish user flows (primary and secondary) 
@@ -302,12 +304,11 @@ TBD
 
 #### Week 12 
 * Critique: Share style guides.
-* Lecture: Accessibility
 
-* Final presentation and group critue part 2.
+* Final presentation and group critique part 1.
 Final Presentations of the journey showing insights and design pivots. Everyone trying everyone else's app on our phones! 
 
 
 #### Week 13 
-* Final presentation and group critue part 2.
+* Final presentation and group critique part 2.
 Final Presentations of the journey showing insights and design pivots. Everyone trying everyone else's app on our phones! 
