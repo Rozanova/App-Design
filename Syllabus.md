@@ -1,8 +1,7 @@
 # App UX
 ### :vibration_mode:
 ##### Taught by: Katya Rozanova
-##### kr2176@nyu.edu 
-##### Thursdays 6 - 9:50pm
+##### kr2176@nyu.edu or krozanova@qc.cuny.edu or katya.rozanova@gmail.com
 ##### [Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UUl6MGVCbmRqLXU2fGRlZmF1bHR8YWNiY2U3Njc4NWU0OGE1ZjU3N2E4ZTE0ZTUyNGYyZDg)
 
 
