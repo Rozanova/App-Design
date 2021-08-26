@@ -157,7 +157,7 @@ acad_integrity.html
 * Show example projects.
 * Syllabus review.
 * Design theory review.
-* Setting up Behance, sharing QC emails. 
+* Setting up blog (Wordpress, Medium, Tumblr), sharing QC emails. 
 
 ##### HW: 
 * Quick 2-3 paragraphs about potential app idea (you can just publish a project in Behance for that and then send me the link by email to kr2176@nyu.edu) and interests based on the four options for class projects:
