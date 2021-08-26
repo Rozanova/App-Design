@@ -6,14 +6,44 @@
 
 
 
-> “Even design centers are exposed to the complicity of the media, running the risk of failing to reach their original objective: to make a difference between design as intelligent problem solving and styling. After all, it is a question of a renaissance of the tradition of the Good Design Movement... The advocates of Good Design pursued socio-pedagogical objectives, while the life style centers of today pursue exclusively commercial and marketing aims to provide orientation for consumption patterns…”
+_&quot;You can't use up creativity. The more you use, the more you have.&quot;_
 
-> Gui Bonsiepe. Design and Democracy.
+_~Maya Angelou_
 
 
 
-### Course Description and Objectives
-This course is designed to teach students how to design user experiences (UX) for native applications for mobile devices while considering what types of digital products can and should be put out into the world as tools for the day-to-day, as speculative art projects, or as forms of resistance to existing systems in place. The course focuses on usability heuristics, research (human-centered design methodologies) and competitive analysis, information architecture, rapid prototyping and usability testing. Students will familiarize themselves with native UI elements in Apple and Android platforms and design for one of the platforms of their choice. They will learn how to present and defend their design decisions. After an introduction to Human-Centered Design, Speculative Design, and Critical Design, students are encouraged to design critically whether for an experimental app that invites viewers to engage in dialogue about pressing social or environmental issues or for an app that is useful in our current daily routines.  
+_&quot;Even design centers are exposed to the complicity of the media, running the risk of failing to reach their original objective: to make a difference between design as intelligent problem solving and styling. After all, it is a question of a renaissance of the tradition of the Good Design Movement... The advocates of Good Design pursued socio-pedagogical objectives, while the life style centers of today pursue exclusively commercial and marketing aims to provide orientation for consumption patterns… &quot;_
+
+_~Gui Bonsiepe. Design and Democracy._
+
+
+
+
+
+### Course Description
+In this course students will  design user experiences (UX) for native applications for mobile devices while considering and evaluating what types of digital products can and should be put out into the world as tools for the day-to-day, as speculative art projects, or as forms of resistance to existing sociotechnical systems that move us today. 
+
+
+### Objectives
+
+- Students will conduct research (Human-Centered Design methodologies) including interviews, surveys, secondary research, competitive analysis, and usability testing in order to produce an informed and useful app. 
+
+- Students will apply standard usability heuristics to their designs and demonstrate knowledge of these heuristics through giving feedback to other students on the usability heuristic of their designs. 
+
+- Students will compare and contrast Human-Centered Design, Speculative Design, and Critical Design and design critically whether for an experimental artifact or for a practical and realistic one.
+
+- Students will build their apps from the ground up, starting from low fidelity hand-drawn prototypes and ending in a high fidelity digital prototype. 
+
+- Students will use rapid prototyping techniques (iterative design) in order to validate their assumptions, gain insight, and steer their designs towards improvement. 
+
+- Students will familiarize themselves with native UI elements in Apple and Android platforms, explore platform-agnostic UI, and design for one of the platforms of their choice.
+
+- Students will practice presenting and defending their design decisions.
+
+- Students will critique the work of other students and ask constructive questions that will encourage critical thinking about app features and design decisions. 
+
+
+
 
 
 ### Things to bring to class:
@@ -123,26 +153,23 @@ acad_integrity.html
 #### Week 1 
 ##### In-class: 
 * Course introduction. 
+* Ice breakers + Discussion of individual goals and design interests.
+* Show example projects.
 * Syllabus review.
 * Design theory review.
-* Discussion of individual goals and design interests.
-* Setting up blogs and are.na accounts, sharing emails and blogs with the instructor. 
+* Setting up Behance, sharing QC emails. 
 
 ##### HW: 
-* Quick 2-3 paragraphs about potential app idea and interests based on the four options for class projects:
+* Quick 2-3 paragraphs about potential app idea (you can just publish a project in Behance for that and then send me the link by email to kr2176@nyu.edu) and interests based on the four options for class projects:
 1. App as civic engagement tool.
 2. Speculative app a design/art project to address potential future societal needs. 
 3. Critical app design as design/art project that critiques existing social and cultural systems. 
 Post to your blog and share blog.
 4. Your choice
 
-* [Can design change society? – Gui Bonsiepe: Technological Transformation](https://www.youtube.com/watch?v=vLKPTCgUQBY) Watch and answer the question: Do you think designers can/do change society? If so, why? Post to your blog.
+* Read [How to think differently about doing good as a creative person](https://thecreativeindependent.com/guides/how-to-think-differently-about-doing-good-as-a-creative-person/) and write a short (or long if you wish) response (if you alrady had me in a class that had this assignment in the past feel free to post the same one :))
 
-* Start mood board on are.na for ideas (add at 3 - 4 inspirational items to start). 
-
-* Post are.na and blog links to this [Weekly Assignments document]
-(https://docs.google.com/document/d/1YNxX5W69mKBNEXMsRS5N9qab15BsAwzGitfKVnQnIKg/edit?usp=sharing) 
-
+* Start a collection in Behance as a mood board for app design that inspires you, UI you like, aesthetics, illustrations, or anything that may inform your app design. You can also use pinterst or are.na if you prefer that instead of Behance collections. Email me the link to kr2176@nyu.edu. 
 
 
 #### Week 2 
