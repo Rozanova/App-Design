@@ -32,6 +32,8 @@ In this course students will  design user experiences (UX) for native applicatio
 
 - Students will compare and contrast Human-Centered Design, Speculative Design, and Critical Design and design critically whether for an experimental artifact or for a practical and realistic one.
 
+- Students will familiarize themselves with design for accessability and design one or more features that addresses 
+
 - Students will build their apps from the ground up, starting from low fidelity hand-drawn prototypes and ending in a high fidelity digital prototype. 
 
 - Students will use rapid prototyping techniques (iterative design) in order to validate their assumptions, gain insight, and steer their designs towards improvement. 
