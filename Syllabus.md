@@ -157,7 +157,7 @@ acad_integrity.html
 * Show example projects.
 * Syllabus review.
 * Design theory review.
-* Setting up blog (Wordpress, Medium, Tumblr), sharing QC emails. 
+* Setting up blog (Wordpress, Medium, Tumblr but don't use instagram. It has to be a blog where you can type under each image), sharing QC emails. 
 
 ##### HW: 
 * Quick 2-3 paragraphs about potential app idea (you can just publish a project in Behance for that and then send me the link by email to kr2176@nyu.edu) and interests based on the four options for class projects:
@@ -169,7 +169,7 @@ Post to your blog and share blog.
 
 * Read [How to think differently about doing good as a creative person](https://thecreativeindependent.com/guides/how-to-think-differently-about-doing-good-as-a-creative-person/) and write a short (or long if you wish) response (if you alrady had me in a class that had this assignment in the past feel free to post the same one :))
 
-* Start a collection in Behance as a mood board for app design that inspires you, UI you like, aesthetics, illustrations, or anything that may inform your app design. You can also use pinterst or are.na if you prefer that instead of Behance collections. Email me the link to kr2176@nyu.edu. 
+* Start a mood board for app design that inspires you. 5 or more images. For example:  UI you like, aesthetics, illustrations, or anything that may inform your app design. You can also use pinterst, Behance collections, are.na, or just place those images you found in your blog post. Later you will continue adding to your moood board. Email me the link to kr2176@nyu.edu. 
 
 
 #### Week 2 
