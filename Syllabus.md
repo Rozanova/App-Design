@@ -33,7 +33,7 @@ In this course students will  design user experiences (UX) for native applicatio
 
 - Students will compare and contrast Human-Centered Design, Speculative Design, and Critical Design and design critically whether for an experimental artifact or for a practical and realistic one.
 
-- Students will familiarize themselves with design for accessability and design one or more features that addresses 
+- Students will familiarize themselves with design for accessability and include this knowledge into their designs.
 
 - Students will build their apps from the ground up, starting from low fidelity hand-drawn prototypes and ending in a high fidelity digital prototype. 
 
@@ -55,7 +55,7 @@ In this course students will  design user experiences (UX) for native applicatio
 
 
 ### Tools we will use:
-Sketch App, a blog (like Tumblr or a blog of your choice), are.na, and Gmail.
+[Figma](https://www.figma.com), a blog (like Tumblr or a blog of your choice), [Miro](https://miro.com), are.na, pencils, paper.
 
 
 
