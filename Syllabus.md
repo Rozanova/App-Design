@@ -1,10 +1,7 @@
 # App Design
-### DESN 263-01(45979)
-### :vibration_mode:
 ##### Taught by: Katya Rozanova
 ##### kr2176@nyu.edu or krozanova@qc.cuny.edu or katya.rozanova@gmail.com
-##### [Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UUl6MGVCbmRqLXU2fGRlZmF1bHR8YWNiY2U3Njc4NWU0OGE1ZjU3N2E4ZTE0ZTUyNGYyZDg)
-
+##### [Office Hours]
 
 
 _&quot;You can't use up creativity. The more you use, the more you have.&quot;_
@@ -31,7 +28,7 @@ In this course students will  design user experiences (UX) for native applicatio
 
 - Students will apply standard usability heuristics to their designs and demonstrate knowledge of these heuristics through giving feedback to other students on the usability heuristic of their designs. 
 
-- Students will compare and contrast Human-Centered Design, Speculative Design, and Critical Design and design critically whether for an experimental artifact or for a practical and realistic one.
+- Students will learn about Human-Centered Design and it's critique, Speculative and Critical Design, Design for Social Innovation, and Ludic Design. They will be encouraged to design critically whether for an experimental artifact or for a practical one intended for day-to-day use.
 
 - Students will familiarize themselves with design for accessability and include this knowledge into their designs.
 
@@ -61,10 +58,12 @@ In this course students will  design user experiences (UX) for native applicatio
 
 ### Projects:
 Students will design an app that will fit in one of the following categories: 
-1. App as civic engagement tool.
+1. App as civic engagement tool. Civic Tech.
 2. Speculative app a design/art project to address potential future societal needs.
-3. Critical app design as design/art project that critiques existing social and cultural systems. 
-4. Your choice, as long as it follows Human-Centered design guidelines.
+3. Critical app design as design/art project that critiques existing social and cultural systems.
+4. Ludic design - splayful and gaeful design.
+5. Design for social innocation and sustainability - a way to connect people in mutually benefitial ways.  
+6. Student's choice, as long as it follows a loose rubrick discussed in class.
 
 
 ### Readings:
@@ -150,195 +149,3 @@ an academic exercise. Plagiarism is the act of presenting another person’s ide
 or writings as your own. More information is available at http://sps.cuny.edu/acad_policies/
 acad_integrity.html
 
-
-### Class schedule (subject to change!)
-
-#### Week 1 
-##### In-class: 
-* Course introduction. 
-* Ice breakers + Discussion of individual goals and design interests.
-* Show example projects.
-* Syllabus review.
-* Design theory review.
-* Setting up blog (Wordpress, Medium, Tumblr but don't use instagram. It has to be a blog where you can type under each image), sharing QC emails. 
-
-##### HW: 
-* Quick 2-3 paragraphs about potential app idea (you can just publish a project in Behance for that and then send me the link by email to kr2176@nyu.edu) and interests based on the four options for class projects:
-1. App as civic engagement tool.
-2. Speculative app a design/art project to address potential future societal needs. 
-3. Critical app design as design/art project that critiques existing social and cultural systems. 
-Post to your blog and share blog.
-4. Your choice
-
-* Read [How to think differently about doing good as a creative person](https://thecreativeindependent.com/guides/how-to-think-differently-about-doing-good-as-a-creative-person/) and write a short (or long if you wish) response (if you alrady had me in a class that had this assignment in the past feel free to post the same one :))
-
-* Start a mood board for app design that inspires you. 5 or more images. For example:  UI you like, aesthetics, illustrations, or anything that may inform your app design. You can also use pinterst, Behance collections, are.na, or just place those images you found in your blog post. Later you will continue adding to your moood board. Email me the link to kr2176@nyu.edu. 
-
-
-#### Week 2 
-##### In-class: 
-* Students share ideas for apps and give each other feedback in groups.
-* Lecture: Inspiration Phase. Intro to Human-Centered Design methods. "User" (Participant) Interviews, "How might we" statements. [IDEO's Design Kit](https://www.designkit.org/methods).
-
-* In-class activity: come up with questions for both regular *user interviews* and *expert interviews* and start interviewing classmates. Come up with a "How might we" statement.
-
-##### HW: 
-
-1. Interviews for your idea: Come up with questions for both regular participant [*interviews*](https://www.designkit.org/methods/2) and [*expert interviews*](https://www.designkit.org/methods/43).
-Blog it and post link to [Weekly Assignments document]
-(https://docs.google.com/document/d/1YNxX5W69mKBNEXMsRS5N9qab15BsAwzGitfKVnQnIKg/edit?usp=sharing) 
-2. Frame the design challenge. In other words, come up with a [“How might we” statement](https://www.designkit.org/methods/60). Blog it and post link to [Weekly Assignments document]
-(https://docs.google.com/document/d/1YNxX5W69mKBNEXMsRS5N9qab15BsAwzGitfKVnQnIKg/edit?usp=sharing) 
- 
-
-(note: not doing storyboard yet!)
-
-
-
-
-#### Week 3 
-##### In-class: 
-* Students present homework and get feedback from class.
-* Lecture: "Ideation" phase begins, while still in "inspiration" phase also. Go over [personas](http://opendesignkit.org/methods/personas/), [journey maps](https://www.designkit.org/methods/63), and [story boards](https://www.designkit.org/methods/35). 
-* In-class activity: Craft Personas, journey maps, and storyboards for your project.  
-
-
-
-
-##### HW: 
-* Finish and refine personas, journey maps, and storyboards started in class. Post to blog. 
-* Continue collecting and documenting interviews. Interview a total of 10 people.
-* Reach out to more experts to interview or follow up with ones already contacted.
-* Post all relevant links(blog and/or are.na) to [Weekly Assignments document](https://docs.google.com/document/d/1YNxX5W69mKBNEXMsRS5N9qab15BsAwzGitfKVnQnIKg/edit?usp=sharing) 
-
-
-
-
-#### Week 4
-##### In-class: 
-
-
-* Class Critique: Print storyboards, pin up, and critique a few
-30 min
-
-* Lecture: Intro to insights and solutions, features using paper prototype features (also Prott or POP). 
-
-* In-class activities: Insights and solutions. Features on paper (or Prott/POP) .
- User testing paper prototypes. Synthesizing research. 
-
-* Lecture: Secondary research & competitive analysis. Feature priority. 
-
-
-##### HW:  
-* Make updates to paper prototype and test on five more people. Summarize, record, and analyze your findings. 
-* Conduct secondary research about your topic. [Here's how](https://www.designkit.org/methods/21). 
-* Use your findings from user testing and from your secondary research to inform your competitive analysis.
-* Prioritize app features based on competitive analysis.
-* Post all relevant links(blog and/or are.na) to [Weekly Assignments document](https://docs.google.com/document/d/1YNxX5W69mKBNEXMsRS5N9qab15BsAwzGitfKVnQnIKg/edit?usp=sharing) 
-
-
-
-#### Week 5 
-##### In-class: 
-
-* Class Critique: Students Present competitive analysis and features. 
-* Lecture: User goals, AI (user flows, site maps).  
-* In-class activity: User flows.
-
-##### HW: 
-* Finish user flows, site maps.
-
-
-
-#### Week 6 
-##### In-class: 
-* Lecture: Prototyping and usability techniques. (Sketch, Figma, Adobe XD)
-* Lecture: Accessibility
-* In-class activity: Use Sketch, Figma, or Adobe XD to prototype the next iteration of the wireframes for testing.
-
-
-##### HW: 
-* Finish user flows (primary and secondary) 
-* Create a site maps
-* Wireframes (Wireflow)
-* Update your problem statement if need be. [Persona name] needs a way to [user’s need], because [insight].
-* Post all relevant links(blog and/or are.na) to [Weekly Assignments document](https://docs.google.com/document/d/1YNxX5W69mKBNEXMsRS5N9qab15BsAwzGitfKVnQnIKg/edit?usp=sharing) 
-
-
-
-
-#### Week 7
-##### In-class:  
-
-* Lecture: Usability heuristics. Hi-fi UI.
-
-##### HW:
-* HW: TBD  
-
-
-
-#### Week 8 
-##### In-class: 
-* Lecture: Native UI part 1
-* In-class workshop: Choosing native UI that you need for your app.
-* In-class workshop: Site maps
-
-##### HW: 
- 
-
-
-
-#### Week 9
-##### In-class: 
-* Lecture: Native UI (elevations, shadows, material design) part 2 and heuristics.
-* In-class workshop: Choosing native UI that you need for your app. Build a tyle guide.
-
-
-##### HW: 
-TBD
-
-
-
-
-
-#### 
-
-* Lecture: Usability refresher
-* In-class workshop: Usability testing.
-
-##### HW: 
-* Apply your takeaways from the usability testing sessions to your designs. 
-
-#### Week 10 
-##### In-class: 
-* Lecture: Libraries, style guides.
-* In-class workshop: Work session & one-on-ones
-
-##### HW: 
-* Style guides
-* Updated flows
-
-
-#### Week 11
-##### In-class: 
-* Critique: Select students to get class critiques (first half),
-* Lecture: Animations and prototyping continued. Case studies: Telling a story about your design process. 
-* In-class workshop: One-on-ones during work session.
-
-##### HW: 
-* Sign up for final presentations for either week 12 or 13. 
-* Finalize Style Guide and wires. Make sure app has high fi styles applied, even if still in progress. This means no more greyscale wireframes, placeholder images, app names, or placeholder icons.
-* Put together a Design story about our process. 
-
-
-
-#### Week 12 
-* Critique: Share style guides.
-
-* Final presentation and group critique part 1.
-Final Presentations of the journey showing insights and design pivots. Everyone trying everyone else's app on our phones! 
-
-
-#### Week 13 
-* Final presentation and group critique part 2.
-Final Presentations of the journey showing insights and design pivots. Everyone trying everyone else's app on our phones! 
