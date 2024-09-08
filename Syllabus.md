@@ -55,7 +55,7 @@ In this course students will  design user experiences (UX) for native applicatio
 
 
 ### Tools we will use:
-[Figma](https://www.figma.com), a blog (like Tumblr or a blog of your choice), [Miro](https://miro.com), are.na, pencils, paper.
+[Figma](https://www.figma.com), text editing sotware of choice, are.na or pinterest or other tool for creating mood boards, pencils, paper.
 
 
 
