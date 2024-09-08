@@ -45,7 +45,7 @@ In this course students will  design user experiences (UX) for native applicatio
 
 - Students will critique the work of other students and ask constructive questions that will encourage critical thinking about app features and design decisions. 
 
-
+- Students will also get a chance to discuss creative career paths. 
 
 
 
