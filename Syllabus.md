@@ -55,7 +55,7 @@ In this course students will  design user experiences (UX) for native applicatio
 
 
 ### Tools we will use:
-[Figma](https://www.figma.com), text editing sotware of choice, are.na or pinterest or other tool for creating mood boards, pencils, paper.
+[Figma](https://www.figma.com), text editing software of choice, are.na or pinterest or other tool for creating mood boards, pencils, paper.
 
 
 
@@ -83,6 +83,8 @@ Optional:
 [Design and Democracy by BGui Bonsiepe](https://www.mitpressjournals.org/doi/pdf/10.1162/desi.2006.22.2.27)
 
 ### Assessment and grading
+A rubric will be handed out for the final project presentation. 
+
 Where applicable, all projects will be evaluated according to the following criteria
 in equal weight:
 
