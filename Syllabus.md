@@ -1,8 +1,7 @@
 # App Design
 ##### Taught by: Katya Rozanova
 ##### kr2176@nyu.edu or krozanova@qc.cuny.edu or katya.rozanova@gmail.com
-##### [Office Hours: https://calendar.app.google/8U7n2bV2H8TEqWdQ9
-](https://calendar.app.google/8U7n2bV2H8TEqWdQ9)
+##### [Office Hours: https://calendar.app.google/8U7n2bV2H8TEqWdQ9](https://calendar.app.google/8U7n2bV2H8TEqWdQ9)
 
 
 _&quot;You can't use up creativity. The more you use, the more you have.&quot;_
