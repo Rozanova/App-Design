@@ -1,7 +1,8 @@
 # App Design
 ##### Taught by: Katya Rozanova
 ##### kr2176@nyu.edu or krozanova@qc.cuny.edu or katya.rozanova@gmail.com
-##### [Office Hours]
+##### [Office Hours: https://calendar.app.google/8U7n2bV2H8TEqWdQ9
+](https://calendar.app.google/8U7n2bV2H8TEqWdQ9)
 
 
 _&quot;You can't use up creativity. The more you use, the more you have.&quot;_
@@ -16,6 +17,8 @@ _~Gui Bonsiepe. Design and Democracy._
 
 
 
+_&quot;I tell my students, 'When you get these jobs that you have been so brilliantly trained for, just remember that your real job is that if you are free, you need to free somebody else. If you have some power, then your job is to empower somebody else. This is not just a grab-bag candy game.”&quot;_
+― ~Toni Morrison _
 
 
 ### Course Description
@@ -63,13 +66,21 @@ Students will design an app that will fit in one of the following categories:
 3. Critical app design as design/art project that critiques existing social and cultural systems.
 4. Ludic design - splayful and gaeful design.
 5. Design for social innocation and sustainability - a way to connect people in mutually benefitial ways.  
-6. Student's choice, as long as it follows a loose rubrick discussed in class.
+6. Student's choice, as long as it follows a loose rubrick discussed in class. Can speak with me if you would like to make an artistic app or something out of the ordinary and we can work out the criteria for grading it.
+
+   Students are welcome to create combination works -  for axample, an app that goes along with a childrens' book, or an app that is installed in a deice. For example, a student in the past created a UI for a recycling juke box they invented, so they prototyped a jukebox mock-up and designed an interface for the jukebox in Figma. 
 
 
 ### Readings:
+
+[How to think differently about doing good as a creative person by Omayeli Arenyeka ] (https://thecreativeindependent.com/guides/how-to-think-differently-about-doing-good-as-a-creative-person/)
+[How to think differently about doing good as a creative person by Don Norman]
+(https://ia902800.us.archive.org/3/items/thedesignofeverydaythingsbydonnorman/The%20Design%20of%20Everyday%20Things%20by%20Don%20Norman.pdf)
+
 Optional: 
-[Design and Democracy by Gui iepe](https://www.mitpressjournals.org/doi/pdf/10.1162/desi.2006.22.2.27)
+
 [How Things Don't Work by Victor Papanek](https://papanek.org/how-things-dont-work-the-dreamscape-of-victor-papanek/)
+[Design and Democracy by BGui Bonsiepe](https://www.mitpressjournals.org/doi/pdf/10.1162/desi.2006.22.2.27)
 
 ### Assessment and grading
 Where applicable, all projects will be evaluated according to the following criteria
