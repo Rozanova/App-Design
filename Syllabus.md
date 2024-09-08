@@ -33,7 +33,7 @@ In this course students will  design user experiences (UX) for native applicatio
 
 - Students will learn about Human-Centered Design and it's critique, Speculative and Critical Design, Design for Social Innovation, and Ludic Design. They will be encouraged to design critically whether for an experimental artifact or for a practical one intended for day-to-day use.
 
-- Students will familiarize themselves with design for accessability and include this knowledge into their designs.
+- Students will familiarize themselves with design for accessibility and include this knowledge into their designs.
 
 - Students will build their apps from the ground up, starting from low fidelity hand-drawn prototypes and ending in a high fidelity digital prototype. 
 
