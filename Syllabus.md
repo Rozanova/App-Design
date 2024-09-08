@@ -19,7 +19,7 @@ _~Gui Bonsiepe. Design and Democracy._
 
 _&quot;I tell my students, 'When you get these jobs that you have been so brilliantly trained for, just remember that your real job is that if you are free, you need to free somebody else. If you have some power, then your job is to empower somebody else. This is not just a grab-bag candy game.”&quot;_
 
-― ~Toni Morrison_
+_~Toni Morrison_
 
 
 ### Course Description
